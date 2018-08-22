@@ -15,3 +15,7 @@ def select_winner(passengers)
   end
   winner  
 end
+
+def happy_birthday(kids)
+  kids.each { |name, age| puts ""  }
+end
